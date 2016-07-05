@@ -6,7 +6,7 @@ For whom does not trust any portable version of Thunderbird around the world.
 3. Put ThunderbirdLoader.exe into Thunderbird installed directory
 4. Launch ThunderbirdLoader.exe
 
-**You can make Thunderbird start with Windows by create a shortcut for ThunderbirdLoader.exe and put the shortcut into Startup directory.**
+**You can make Thunderbird start with Windows by creating a shortcut for ThunderbirdLoader.exe and put the shortcut into Startup directory.**
 
 # How to compile ThunderbirdLoader
 1. Download and install Lazarus from http://www.lazarus-ide.org/

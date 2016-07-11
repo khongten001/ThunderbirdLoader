@@ -1,5 +1,5 @@
 # ThunderbirdLoader
-For whom does not trust any portable version of Thunderbird around the world.
+For whom does not trust any portable version of Thunderbird floating on the Internet.
 # Usage
 1. Download and install Thunderbird to any drive which is not OS drive
 2. Download ThunderbirdLoader from https://github.com/thachngopl/ThunderbirdLoader/releases
